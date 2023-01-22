@@ -1,0 +1,144 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+<meta charset="utf-8">
+<title>Luccy</title>
+<meta content="width=device-width, initial-scale=1.0" name="viewport">
+<meta content="" name="keywords">
+<meta content="" name="description">
+<meta property="og:title" content="Luccy" />
+<meta property="og:site_name" content="Luccy Website" />
+<meta property="og:image" content="https://cdn.discordapp.com/avatars/992128503048835253/852ded51ea0a3b87f809b326d64b4a4f.png?size=1024" />
+<meta property="og:description" content="Olá, meu nome é Luccy, eu tenho 17 anos e fui criada para te ajudar no seu servidor. Sou totalmente gratuita com incríveis e diversas funcionalidades, tenho certeza que você irá me adorar!">
+<meta name="theme-color" content="#CE49BF" />
+<link href="../img/luccy.png" rel="icon">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Heebo:wght@400;500&family=Jost:wght@500;600;700&display=swap" rel="stylesheet">
+<link href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.10.0/css/all.min.css" rel="stylesheet">
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/fork-awesome@1.2.0/css/fork-awesome.min.css" integrity="sha256-XoaMnoYC5TH6/+ihMEnospgm0J1PM/nioxbOUdnM8HY=" crossorigin="anonymous">
+<link href="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.4.1/font/bootstrap-icons.css" rel="stylesheet">
+<link href="../lib/animate/animate.min.css" rel="stylesheet">
+<link href="../lib/owlcarousel/assets/owl.carousel.min.css" rel="stylesheet">
+<link href="../lib/lightbox/css/lightbox.min.css" rel="stylesheet">
+<link href="../css/bootstrap.min.css" rel="stylesheet">
+<link href="../css/style.css" rel="stylesheet">
+</head>
+<body>
+<div class="container-xxl bg-white p-0">
+<div id="spinner" class="show bg-white position-fixed translate-middle w-100 vh-100 top-50 start-50 d-flex align-items-center justify-content-center">
+<div class="spinner-grow text-primary" style="width: 3rem; height: 3rem;" role="status">
+<span class="sr-only">Carregando...</span>
+</div>
+</div>
+<div class="container-xxl position-relative p-0">
+<nav class="navbar navbar-expand-lg navbar-light px-4 px-lg-5 py-3 py-lg-0">
+<a href=".." class="navbar-brand p-0">
+<img src="../img/bia.png" alt="Logo">
+</a>
+<button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarCollapse">
+<span class="fa fa-bars"></span>
+</button>
+<div class="collapse navbar-collapse" id="navbarCollapse">
+<div class="navbar-nav mx-auto py-0">
+<a href="../comandos" class="nav-item nav-link"><i class="fa fa-gamepad" aria-hidden="true"></i> Comandos</a>
+<a href="https://discord.gg/4UNUgG7BZd" target="_blank" class="nav-item nav-link"><i class="fa fa-discord" aria-hidden="true"></i> Discord</a>
+<a href="https://top.gg/bot/992128503048835253/vote" target="_blank" class="nav-item nav-link"><i class="fa fa-check-circle" aria-hidden="true"></i> Votar</a>
+<div class="nav-item dropdown">
+<a href="#" class="nav-link dropdown-toggle" data-bs-toggle="dropdown"><i class="fa fa-link" aria-hidden="true"></i> Links</a>
+<div class="dropdown-menu m-0">
+<a href="#" class="dropdown-item">Diretrizes Da Comunidade</a>
+<a href="../privacy" class="dropdown-item">Termos de Serviço e Política de Privacidade</a>
+</div>
+</div>
+<a href="../faq" class="nav-item nav-link"><i class="fa fa-question" aria-hidden="true"></i> FAQ</a>
+<a href="../premium" class="nav-item nav-link"><i class="fa fa-star" aria-hidden="true"></i> Seja premium</a>
+</div>
+</div>
+</nav>
+<div class="container-xxl py-5 bg-primary hero-header">
+<div class="container my-5 py-5 px-lg-5">
+<div class="row g-5 py-5">
+<div class="col-12 text-center">
+<h1 class="text-white animated slideInDown">Diretrizes Da Comunidade</h1>
+<hr class="bg-white mx-auto mt-0" style="width: 90px;">
+</div>
+</div>
+</div>
+</div>
+</div>
+<div class="container-xxl py-5">
+<div class="container py-5 px-lg-12">
+<div class="row g-5 align-items-center">
+<div class="col-lg-12 wow fadeInUp" data-wow-delay="0.1s">
+<p class="section-title text-secondary">Diretrizes Da Luccy<span></span></p>
+<h1 class="mb-5">O que são as diretrizes?</h1>
+<p class="mb-4">As <strong>Diretrizes</strong> são uma forma de mantermos a paz e harmonia pelo Discord. Ao presenciar uma quebra de termos ou abuso de bugs, seu servidor poderá ser punido juntamente com o Usuário em questão, a Equipe Luccy não verifica diariamente os servidores de modo a manter a <strong>Privacidade</strong> de seus usuários, caso seja reportado algum tipo de abuso, tudo será investigado antes de ser aplicada qualquer tipo de punição, você deve seguir com as Diretrizes do Discord e da Luccy para evitar possíveis punições.</p>
+</div>
+<div class="row g-5 align-items-center">
+<div class="col-lg-12 wow fadeInUp" data-wow-delay="0.1s">
+<p class="section-title text-secondary">Estou perdido(a)<span></span></p>
+<h1 class="mb-5">O que eu devo fazer?</h1>
+<p class="mb-4">Siga as diretrizes da plataforma que você está utilizando, seja o site da Luccy ou o <strong><a href="https://discordapp.com/guidelines">Discord</a></strong>. Ao utilizar a Luccy você pode ajudar com seu feedback em nosso servidor, pode ajudar reportando bugs, poderá também fazer parte da Equipe de suporte. A Equipe Luccy reconhece seu esforço. Seja um usuário de exemplo e evite punições.</p>
+</div>
+</div>
+<div class="row g-5 align-items-center">
+<div class="col-lg-12 wow fadeInUp" data-wow-delay="0.1s">
+<p class="section-title text-secondary">Direto ao assunto<span></span></p>
+<h1 class="mb-5">E quais são as diretrizes?</h1>
+<p class="mb-4">
+<h4>Abuso de bugs ou ataques</h4>
+<li>Compactuar com ataques ou participar no abuso de bugs, você quebra diretamente as Diretrizes e Termos de uso da Luccy.</li>
+<li>Ao ver que alguém está abusando de bugs, você deve reportar o ocorrido para algum membro oficial da Staff da Luccy.</li>
+<li>Se aproveitar de falhas ou bugs para fazer com que o bot não consiga desempenhar suas funções é completamente proibido.</li>
+<li>Realizar ataques de negação de serviço ou algo relacionado, é contra as Diretrizes da Luccy, caso seja comprovado que você foi o autor, você será devidamente punido.</li>
+<li>Cuidado com o abuso de comandos e flood dos mesmos, isso pode acabar com seu banimento da utilização do bot, sem direito a pedido de remoção de banimento.</li>
+<h4>Roubo ou plágio</h4>
+<li>Caso você copie de alguma forma o Bot, seja utilizando o mesmo nome e avatar ou utilizando a foto da Luccy de forma a enganar outros membros, você poderá ser punido temporariamente da utilização de comandos.</li>
+<li>Copiar é diferente de se inspirar, você está totalmente livre a utilizar a Luccy como ponto de inspiração ou referência, deixe os devidos créditos, se possível.</li>
+<li>Quer utilizar algo da Luccy? Peça permissão para evitar futuros desentendimentos.</li>
+<li>Criar bots que possuem o mesmo nome e avatar que a Luccy utiliza.</li>
+<h4>Comércio de produtos relacionados à Luccy</h4>
+<li>A Luccy não comercializa nenhum tipo de produto até à data em que este texto foi elaborado (<strong>09/01/2023</strong>).</li>
+<li>Ao tentar comercializar qualquer tipo de produto relacionado à Luccy, você enfrentará uma punição.</li>
+<li>Comprou algo da Luccy com um membro e não recebeu? Infelizmente não podemos fazer nada em relação a isso, os termos estão alertando você justamente sobre esse tipo de coisa.</li>
+<h4>Difamar a Luccy ou sua Equipe.</h4>
+<li>Em caso de xingamentos, estaremos desconsiderando casos em que forem utilizadas palavras leves como por exemplo "boba", mas em caso de xingamentos mais pesados você poderá ser punido sem qualquer tipo de aviso.</li>
+<li>Xingamentos serão válidos caso sejam em servidores abertos, caso você pratique esse tipo de ato em seu servidor privado sem ninguém, não iremos punir você.</li>
+<li>Não crie mentiras sobre a Luccy ou sua Equipe, isso resultará em seu banimento do uso de comandos.</li>
+<h4>Utilizar funcionalidades da Luccy contra as diretrizes</h4>
+<li>Já pensou você entrar no Discord e encontrar um bot mandando imagens NSFW ou xingando um membro? Você ficaria com muito nojo desse bot, a reprodução desse tipo de ação é estritamente proibida.</li>
+<li>Utilizar alguma função da Luccy para divulgação de dados ou fotos pessoais é proibido e sujeto a seu banimento baseado no nível de punições.</li>
+<li>Não crie mentiras sobre a Luccy ou sua Equipe, isso resultará em seu banimento do uso de comandos.</li>
+<h4>Fingir ser a Luccy ou um membro da Equipe dela</h4>
+<li>Espalhar mentiras dizendo que você ou o seu bot tem alguma relação com a Luccy ou com a equipe dela.</li>
+<li>Caso um servidor tenha um bot que está se passando pela Luccy, o dono do servidor será banido até que ele prove quem adicionou o bot no servidor.</li>
+</p>
+</div>
+</div>
+<div class="row g-5 align-items-center">
+<div class="col-lg-12 wow fadeInUp" data-wow-delay="0.1s">
+<p class="section-title text-secondary">Hora da punição<span></span></p>
+<h1 class="mb-5">Quais são os tipos de punição?</h1>
+<p class="mb-4">
+<li>Banimento de todos os servidores dos quais a Luccy participa.</li>
+<li>Perder o acesso ao uso da Luccy em seus servidores.</li>
+<li>Seu servidor será removido da lista de servidores dos quais a Luccy participa (A Luccy sairá do servidor).</li>
+<li>Você será banido dos servidores de Suporte e parceiros da Luccy.</li>
+</p>
+</div>
+</div>
+</div>
+</div>
+<script src="https://code.jquery.com/jquery-3.4.1.min.js"></script>
+<script src="https://cdn.jsdelivr.net/npm/bootstrap@5.0.0/dist/js/bootstrap.bundle.min.js"></script>
+<script src="../lib/wow/wow.min.js"></script>
+<script src="../lib/easing/easing.min.js"></script>
+<script src="../lib/waypoints/waypoints.min.js"></script>
+<script src="../lib/counterup/counterup.min.js"></script>
+<script src="../lib/owlcarousel/owl.carousel.min.js"></script>
+<script src="../lib/isotope/isotope.pkgd.min.js"></script>
+<script src="../lib/lightbox/js/lightbox.min.js"></script>
+<script src="../js/main.js"></script>
+</body>
+</html>
